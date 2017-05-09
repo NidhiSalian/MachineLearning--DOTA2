@@ -6,7 +6,7 @@ Replace your API Key as indicated in the comments.
 
 Files included :
   1. The output.csv file that holds data about previous match records 
-  2. The flask web application(mlproject.zip) that contains all the templates and code files
+  2. The flask web application(FlaskWebApp.zip) that contains all the templates and code files
  
 NOTE:
  
