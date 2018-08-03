@@ -26,4 +26,7 @@ http://flask.pocoo.org/docs/0.12/installation/
 
 Change the path to the output.csv file as required(indicated by the comments).
  
-  
+
+## License:
+
+[MIT License](./LICENSE)
