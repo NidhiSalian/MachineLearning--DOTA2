@@ -15,7 +15,7 @@ You can install anaconda here:
 
 https://docs.continuum.io/anaconda/install
 
-After completing the above step, you will need to install the Dota2 Api package for python (pip install is the easist method). Find the steps here:
+After completing the above step, you will need to install the Dota2 Api package for python (pip install is the easiet method). Find the steps here:
 
 https://dota2api.readthedocs.io/en/latest/installation.html
 
