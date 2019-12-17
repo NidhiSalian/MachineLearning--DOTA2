@@ -1,6 +1,6 @@
 # MachineLearning--DOTA2
-This project uses a flask-based web application(Python 2.7 built on the Anaconda framework) to predict the outcome of a DOTA 2 match based on Radiant and Dire team hero selections using a Machine Learning Model to learn from previous  (Suppor Vector Machine)
-This repository contains the codebase and datasets that we used for this project.  If you have any questions about the contents included, feel free to email me at nidhi800@yahoo.com.
+This project uses a flask-based web application(Python 2.7 built on the Anaconda framework) to predict the outcome of a DOTA 2 match based on Radiant and Dire team hero selections using a Machine Learning Model (Suppor Vector Machine) trained on past matches.
+This repository contains the all the code and datasets that we used for this project.  If you have any questions about the contents included, feel free to email me at nidhi800@yahoo.com.
 You will need a valid DOTA2 API key for the API calls made in the code. 
 Replace your API Key as indicated in the comments.
 
